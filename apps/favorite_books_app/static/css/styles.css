@@ -1,0 +1,14 @@
+
+.header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border-bottom: 5px solid black;
+}
+.content{
+    display: flex;
+}
+
+.second-half{
+    margin-left: 200px;
+}
